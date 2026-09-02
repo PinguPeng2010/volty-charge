@@ -24,6 +24,11 @@ The first release is planned as a mobile map experience for iOS and Android. Fut
 
 Features and integrations are under active development and are not represented as live unless stated otherwise.
 
+## Supported Regions
+Currently, Volty only supports England, Scotland, Wales and Northern Ireland.
+Mainland Europe and Ireland will follow when more CPOs are contacted.
+> There are currently no plans to extend this to the Americas, Africa, Asia, and Oceania. This could change, depending on reception in the UK and Europe
+
 ## OCPI integration
 
 Volty is designed to support OCPI 2.2.1 integrations with CPOs and roaming partners. This work is intended to enable standardised exchange of charging-location, tariff, availability, session, and related operational data as the project develops.
