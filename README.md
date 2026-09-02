@@ -54,4 +54,4 @@ me! or got to the website to contact.
 
 ## Licence
 
-Licensed under GNU GPL License
+Licensed under GNU GPL License v3.0
